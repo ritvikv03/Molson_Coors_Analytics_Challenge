@@ -197,7 +197,7 @@ This analysis framework can be applied to:
 
 ## Author
 
-**Ritvik Vasudev**
+**Ritvik Vasikarla**
 
 ## License
 
